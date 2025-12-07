@@ -32,7 +32,10 @@ export default function MessageScreen({ onNext }) {
                         you make people feel truly cared for. I hope your day is filled with laughter, surprises, and moments that
                         make your heart happy. Wishing you endless happiness,
                         success, and all the sweet things life has to offer. 💗
-                        Keep being the amazing person you are, spreading joy wherever you go. Wishing you endless happiness.
+                        Keep being the amazing person you are, spreading joy wherever you go. Wishing you endless happiness. <br />
+
+                        And First la naane porenu sonnalum iru konjam neram pesitu ponu solluva, But Ipola unnaku enkita pesa time illa, and ipola enkita pesa unnaku perusa intrest illa, 
+                        uyira edukuren dra alavuku vanthuruchu Therila but,<span className="font-bold"> Happy Birthday!!</span>
                     </p>
                 </motion.div>
             </div>
